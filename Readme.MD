@@ -34,7 +34,7 @@ I am a **Data Scientist** and **AI Engineer** passionate about building intellig
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Unsupervised Learning for Text**](https://github.com/nainesh-20/unsupervised-learning-for-text) | Analyzed 52k+ Reddit comments using clustering and topic modeling to quantify discourse themes and sentiment. | `Scikit-learn` `NLP` `K-Means` `LDA` `VADER` `Matplotlib` |
+| [**Unsupervised Learning for Text**](https://github.com/nainesh-20/chatgpt_reddit_analysis) | Analyzed 52k+ Reddit comments using clustering and topic modeling to quantify discourse themes and sentiment. | `Scikit-learn` `NLP` `K-Means` `LDA` `VADER` `Matplotlib` |
 | [**Traffic Sign Classification**](https://github.com/nainesh-20/traffic_sign_recognition) | Real-time traffic sign recognition system achieving 98% F-1 score, deployed as a web app. | `PyTorch` `MobileNetV2` `Computer Vision` `Streamlit` |
 
 ---
