@@ -2,7 +2,7 @@
 
 I am a **Data Scientist** and **AI Engineer** passionate about building intelligent systems that solve real-world problems. With a Master's in Data Science from Indiana University and a strong engineering background, I specialize in **Generative AI**, **Agentic Systems**, **LLMs**, and **Full-stack Development**.
 
-📍 **Location:** San Jose, CA/ New York, NY.  
+📍 **Location:** Washington D.C.  
 🎓 **Education:** M.S. in Data Science (Indiana University Bloomington)  
 💼 **Open to work:** Actively seeking full-time opportunities in AI/ML and Data Science.
 
